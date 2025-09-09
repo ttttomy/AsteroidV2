@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=GameWorld
+comment1.params=
+comment1.target=GameWorld()
+comment2.params=
+comment2.target=void\ gameOver()
+comment3.params=a
+comment3.target=void\ wrap(greenfoot.Actor)
+comment4.params=
+comment4.target=void\ prepare()
+comment5.params=cx\ cy\ radius
+comment5.target=int[]\ randomSpawnAwayFrom(int,\ int,\ int)
+comment5.text=\r\n\ Devuelve\ una\ posici\u00F3n\ aleatoria\ [x,y]\ que\ est\u00E9\ a\ m\u00E1s\ de\ 'radius'\ p\u00EDxeles\ de\ (cx,\ cy).\r\n\ Intenta\ hasta\ MAX_TRIES;\ si\ no\ encuentra,\ coloca\ en\ el\ borde\ m\u00E1s\ lejano.\r\n
+numComments=6
